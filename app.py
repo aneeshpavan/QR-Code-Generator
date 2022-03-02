@@ -1,3 +1,4 @@
+#!/usr/local/bin/python2.6
 from flask import Flask, redirect, render_template, url_for, request
 import qrcode
 
