@@ -12,5 +12,5 @@
 
 
 <h4 align="center">
-Contributions, issues, and feature requests are welcome!<br>
+Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!</h4>
