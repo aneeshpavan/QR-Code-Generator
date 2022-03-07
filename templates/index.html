@@ -61,7 +61,7 @@
                 {% if asdf %}
             <h1 style="color: #1E5128;">QR Generated!</h1>
             <img src="{{url_for('static', filename='qr.jpg')}}" style="width: 260px;"><br>
-            <button class="btn" style="background-color: #1E5128;" ><a href="static/qr.jpg" style="color: white;" download="QR"><i class="fa fa-download"></i><strong> Download</strong></a></button>
+            <a href="/static/qr.jpg" class="btn" style="color: white;background-color:#1E5128;" download="QR"><i class="fa fa-download"></i><strong> Download</strong></a>
                 {% endif %}
                 </center>
             </div>
