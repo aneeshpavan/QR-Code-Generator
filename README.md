@@ -10,14 +10,14 @@
 - Python
 - Flask</h4>
 
-
-**Rohit Jain**
+<h4 align="center">
+**Aneesh Prodduturu**
 
 - [Profile](https://github.com/aneeshpavan "Aneesh Prodduturu")
 - [Email](mailto:aneeshpavan@gmail.com?subject="Hi!")
-- [Website](https://aneeshpavan.github.io/ "Welcome")
+- [Website](https://aneeshpavan.github.io/ "Welcome")</h4>
 
 
-
-Contributions, issues, and feature requests are welcome!
-Give a ⭐️ if you like this project!
+<h4 align="center">
+Contributions, issues, and feature requests are welcome!<br>
+Give a ⭐️ if you like this project!</h4>
