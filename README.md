@@ -3,3 +3,4 @@
 
 <h3> Website Link - <a href="https://qrcode--generator.herokuapp.com" target="_blank">Click Here</a></h3>
 
+[Link Text](https://qrcode--generator.herokuapp.com)
