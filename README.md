@@ -1,1 +1,1 @@
-# QR-Code-Generator
+https://qrcode--generator.herokuapp.com/
