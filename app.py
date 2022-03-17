@@ -8,6 +8,10 @@ app = Flask(__name__)
 def home():
     return render_template("index.html")
 
+@app.route('/sitemap')
+def sitemap():
+    return redirect("https://aneeshpavan.github.io/QR-Code-Generator/sitemap.xml")
+
 @app.route('/result',methods=['POST', 'GET'])
 def result():
         qwerty = request.form.get("link")
