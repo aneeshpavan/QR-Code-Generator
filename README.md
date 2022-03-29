@@ -15,7 +15,7 @@
 Contributions, issues, and feature requests are welcome!       Give a ⭐️ if you like this project!</h4>
 
 
-<h3 align="right">
+<h3 align="center">
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aneeshpavan&label=PROFILE+VIEWS&style=for-the-badge)
 
