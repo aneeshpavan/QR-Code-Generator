@@ -20,8 +20,5 @@ def result():
         asdf.save("static/qr.jpg")
         return render_template('index.html',asdf = asdf)
 
-@app.route('/crash')
-def main():
-    raise Exception()
-
-app.run(debug=True)
+if __name__ == "__main__":
+    app.run(debug=False)
